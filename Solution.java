@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class BiggerIsGreater {
+public class Solution {
 	public static String getResults(String word) {
 
 
